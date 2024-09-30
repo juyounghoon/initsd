@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# this is sd card something
 SDCARD_PATH=/media/user/bootfs
 CONFIGTXT=config.txt
 CMDLINETXT=cmdline.txt
